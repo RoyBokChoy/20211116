@@ -2,6 +2,7 @@
  * Program: Exercise in Logic Structures
  * Author: Warren Sheaffer
  * New stuff: 11/16/21
+ * Message New: hello
  * Date: 09/21/21
  * Purpose: This example is an exercise in implementing functions
  * and the logic structures
